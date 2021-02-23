@@ -17,6 +17,5 @@ class MapGrid:
 
         for line in mapFile:
             print(line)
-            
 
         return
